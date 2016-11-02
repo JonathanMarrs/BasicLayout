@@ -1,2 +1,2 @@
 # BasicLayout
-Using CSS for a basic site layout
+Using CSS3 and HTML5 for a basic site layout
